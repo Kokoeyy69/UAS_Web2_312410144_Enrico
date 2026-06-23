@@ -48,7 +48,7 @@ npm run dev
 ## 🔐 Default Login Credentials
 Gunakan akses berikut untuk masuk ke dalam *Dashboard* (jika *database* baru saja di-generate):
 *   **Email:** `admin@test.com`
-*   **Password:** `password`
+*   **Password:** `password123`
 
 ---
 *Developed by Enrico - UAS Web 2 Final Project.*

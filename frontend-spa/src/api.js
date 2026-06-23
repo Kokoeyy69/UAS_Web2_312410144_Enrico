@@ -1,5 +1,5 @@
 import axios from 'axios';
-const apiClient = axios.create({ baseURL: 'http://127.0.0.1:8080/api' });
+const apiClient = axios.create({ baseURL: 'http://api-uas-enrico.freehosting.dev/api' });
 apiClient.interceptors.request.use(config => {
   const token = localStorage.getItem('token');
   if (token) config.headers.Authorization = `Bearer ${token}`;
