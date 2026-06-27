@@ -50,5 +50,13 @@ Gunakan akses berikut untuk masuk ke dalam *Dashboard* (jika *database* baru saj
 *   **Email:** `admin@test.com`
 *   **Password:** `password123`
 
+
+
 ---
+
+## Hasil Prototype 
+
+* link video : https://youtu.be/eyrUDYq3Ik8?si=d9fgllb6r0UAJ-G9
+
+
 *Developed by Enrico - UAS Web 2 Final Project.*
