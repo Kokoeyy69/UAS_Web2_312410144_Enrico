@@ -58,5 +58,6 @@ Gunakan akses berikut untuk masuk ke dalam *Dashboard* (jika *database* baru saj
 
 * link video : https://youtu.be/eyrUDYq3Ik8?si=d9fgllb6r0UAJ-G9
 
+* link demo web : https://uas-web2-312410144-enrico.vercel.app/dashboard
 
 *Developed by Enrico - UAS Web 2 Final Project.*
